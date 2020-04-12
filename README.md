@@ -12,4 +12,6 @@ Start the repo with truffle scaffold tools.
 
 ```sh
 truffle init
+npm init -y
+npm install --save @openzeppelin/contracts
 ```
