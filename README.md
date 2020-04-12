@@ -22,4 +22,12 @@ Make sure your ganache app is launch, and check truffle-config.js configuration
 
 ### Test
 
+`truffle test`
+
 ### Deploy
+
+`truffle migrate`
+
+### Compile
+
+`truffle compile`
