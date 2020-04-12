@@ -15,3 +15,11 @@ truffle init
 npm init -y
 npm install --save @openzeppelin/contracts
 ```
+
+## Running some command
+
+Make sure your ganache app is launch, and check truffle-config.js configuration
+
+### Test
+
+### Deploy
